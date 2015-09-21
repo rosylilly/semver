@@ -1,0 +1,11 @@
+name: semver
+version: 0.1.0
+
+authors:
+  - Sho Kusano <rosylilly@aduca.org>
+
+development_dependencies:
+  power_assert:
+    github: rosylilly/power_assert.cr
+
+license: MIT
