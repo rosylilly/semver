@@ -103,4 +103,6 @@ module Semver
       return 0
     end
   end
+
+  VERSION = Semver::Version.new(1, 0, 0)
 end
